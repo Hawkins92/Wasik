@@ -1,4 +1,4 @@
 # Wasik
-This is my first Git Respository
+This is my first Git Respository.
 <br>
-Author- Wasik ALam Sabik
+Author- Wasik Alam Sabik
